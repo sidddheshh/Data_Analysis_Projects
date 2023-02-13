@@ -6,6 +6,9 @@ The repository consists of 5 project files, which includes Data analysis on diff
 2. FIFA_Database (Data extracted using Web scrapping techniques)
 3. Book_DataAnalysis (JSON Data Format)
 4. Olympics_Dataset (CSV Data Format)
+5. Mobile Application Dataset
+
+above projects does not incorporate use of ML or DL concepts, they are done for learning purpose.
 
 
 
